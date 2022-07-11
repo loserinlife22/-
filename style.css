@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200&family=Raleway:wght@200;400;500&family=Roboto+Slab:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;600&family=Raleway:wght@200;400;500&family=Roboto+Slab:wght@700&display=swap');
+main {
+    color: beige;
+    background-color: rgb(31, 31, 31);
+    padding: 20px 20px 20px 20px;
+    border-radius: 25px;
+    max-width: ;
+}
+h2 {
+    margin: 0px;
+    font-family: 'Nunito', sans-serif;
+}
+p{
+    margin-bottom: 3px;
+    margin-top: 10px;
+    font-family: 'Nunito', sans-serif;
+}
+h1 {
+    margin-bottom: 5px;
+    margin-top: 5px;
+    background-color: rgb(31, 31, 31);
+    padding: 20px 20px 20px 20px;
+    border-radius: 25px;
+    color: beige;
+    max-width: ;
+    font-family: 'Nunito', sans-serif;
+}
+a { 
+    text-decoration: ;
+    color: beige;
+}
